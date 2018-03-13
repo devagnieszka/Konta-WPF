@@ -1,0 +1,90 @@
+c:\users\agnieszka\documents\visual studio 2015\Projects\zajecia22052016\zajecia22052016\bin\Debug\zajecia22052016.exe.config
+c:\users\agnieszka\documents\visual studio 2015\Projects\zajecia22052016\zajecia22052016\obj\Debug\zajecia22052016.csprojResolveAssemblyReference.cache
+c:\users\agnieszka\documents\visual studio 2015\Projects\zajecia22052016\zajecia22052016\obj\Debug\MainWindow.g.cs
+c:\users\agnieszka\documents\visual studio 2015\Projects\zajecia22052016\zajecia22052016\obj\Debug\App.g.cs
+c:\users\agnieszka\documents\visual studio 2015\Projects\zajecia22052016\zajecia22052016\obj\Debug\zajecia22052016_MarkupCompile.cache
+c:\users\agnieszka\documents\visual studio 2015\Projects\zajecia22052016\zajecia22052016\obj\Debug\zajecia22052016_MarkupCompile.lref
+c:\users\agnieszka\documents\visual studio 2015\Projects\zajecia22052016\zajecia22052016\bin\Debug\zajecia22052016.exe
+c:\users\agnieszka\documents\visual studio 2015\Projects\zajecia22052016\zajecia22052016\bin\Debug\zajecia22052016.pdb
+c:\users\agnieszka\documents\visual studio 2015\Projects\zajecia22052016\zajecia22052016\obj\Debug\MainWindow.baml
+c:\users\agnieszka\documents\visual studio 2015\Projects\zajecia22052016\zajecia22052016\obj\Debug\zajecia22052016.g.resources
+c:\users\agnieszka\documents\visual studio 2015\Projects\zajecia22052016\zajecia22052016\obj\Debug\zajecia22052016.Properties.Resources.resources
+c:\users\agnieszka\documents\visual studio 2015\Projects\zajecia22052016\zajecia22052016\obj\Debug\zajecia22052016.csproj.GenerateResource.Cache
+c:\users\agnieszka\documents\visual studio 2015\Projects\zajecia22052016\zajecia22052016\obj\Debug\zajecia22052016.exe
+c:\users\agnieszka\documents\visual studio 2015\Projects\zajecia22052016\zajecia22052016\obj\Debug\zajecia22052016.pdb
+c:\users\agnieszka\documents\visual studio 2015\Projects\zajecia22052016\zajecia22052016\obj\Debug\DlgKlient.g.cs
+c:\users\agnieszka\documents\visual studio 2015\Projects\zajecia22052016\zajecia22052016\obj\Debug\DlgKlient.baml
+C:\Users\Agnieszka\Desktop\zajecia22052016\zajecia22052016\bin\Debug\zajecia22052016.exe.config
+C:\Users\Agnieszka\Desktop\zajecia22052016\zajecia22052016\obj\Debug\zajecia22052016.exe
+C:\Users\Agnieszka\Desktop\zajecia22052016\zajecia22052016\obj\Debug\zajecia22052016.pdb
+C:\Users\Agnieszka\Desktop\zajecia22052016\zajecia22052016\bin\Debug\zajecia22052016.exe
+C:\Users\Agnieszka\Desktop\zajecia22052016\zajecia22052016\bin\Debug\zajecia22052016.pdb
+C:\Users\Agnieszka\Desktop\zajecia22052016\zajecia22052016\obj\Debug\zajecia22052016.csprojResolveAssemblyReference.cache
+C:\Users\Agnieszka\Desktop\zajecia22052016\zajecia22052016\obj\Debug\DlgKlient.g.cs
+C:\Users\Agnieszka\Desktop\zajecia22052016\zajecia22052016\obj\Debug\MainWindow.g.cs
+C:\Users\Agnieszka\Desktop\zajecia22052016\zajecia22052016\obj\Debug\App.g.cs
+C:\Users\Agnieszka\Desktop\zajecia22052016\zajecia22052016\obj\Debug\zajecia22052016_MarkupCompile.cache
+C:\Users\Agnieszka\Desktop\zajecia22052016\zajecia22052016\obj\Debug\zajecia22052016_MarkupCompile.lref
+C:\Users\Agnieszka\Desktop\zajecia22052016\zajecia22052016\obj\Debug\DlgKlient.baml
+C:\Users\Agnieszka\Desktop\zajecia22052016\zajecia22052016\obj\Debug\MainWindow.baml
+C:\Users\Agnieszka\Desktop\zajecia22052016\zajecia22052016\obj\Debug\zajecia22052016.g.resources
+C:\Users\Agnieszka\Desktop\zajecia22052016\zajecia22052016\obj\Debug\zajecia22052016.Properties.Resources.resources
+C:\Users\Agnieszka\Desktop\zajecia22052016\zajecia22052016\obj\Debug\zajecia22052016.csproj.GenerateResource.Cache
+C:\Users\Agnieszka\Desktop\zajecia22052016 — kopia\zajecia22052016\bin\Debug\zajecia22052016.exe.config
+C:\Users\Agnieszka\Desktop\zajecia22052016 — kopia\zajecia22052016\obj\Debug\zajecia22052016.exe
+C:\Users\Agnieszka\Desktop\zajecia22052016 — kopia\zajecia22052016\obj\Debug\zajecia22052016.pdb
+C:\Users\Agnieszka\Desktop\zajecia22052016 — kopia\zajecia22052016\obj\Debug\zajecia22052016.csprojResolveAssemblyReference.cache
+C:\Users\Agnieszka\Desktop\zajecia22052016 — kopia\zajecia22052016\obj\Debug\DlgKlient.g.cs
+C:\Users\Agnieszka\Desktop\zajecia22052016 — kopia\zajecia22052016\obj\Debug\MainWindow.g.cs
+C:\Users\Agnieszka\Desktop\zajecia22052016 — kopia\zajecia22052016\obj\Debug\App.g.cs
+C:\Users\Agnieszka\Desktop\zajecia22052016 — kopia\zajecia22052016\obj\Debug\zajecia22052016_MarkupCompile.cache
+C:\Users\Agnieszka\Desktop\zajecia22052016 — kopia\zajecia22052016\obj\Debug\zajecia22052016_MarkupCompile.lref
+C:\Users\Agnieszka\Desktop\zajecia22052016 — kopia\zajecia22052016\bin\Debug\zajecia22052016.exe
+C:\Users\Agnieszka\Desktop\zajecia22052016 — kopia\zajecia22052016\bin\Debug\zajecia22052016.pdb
+C:\Users\Agnieszka\Desktop\zajecia22052016 — kopia\zajecia22052016\obj\Debug\DlgKlient.baml
+C:\Users\Agnieszka\Desktop\zajecia22052016 — kopia\zajecia22052016\obj\Debug\MainWindow.baml
+C:\Users\Agnieszka\Desktop\zajecia22052016 — kopia\zajecia22052016\obj\Debug\zajecia22052016.g.resources
+C:\Users\Agnieszka\Desktop\zajecia22052016 — kopia\zajecia22052016\obj\Debug\zajecia22052016.Properties.Resources.resources
+C:\Users\Agnieszka\Desktop\zajecia22052016 — kopia\zajecia22052016\obj\Debug\zajecia22052016.csproj.GenerateResource.Cache
+C:\Users\Agnieszka\Desktop\zajecia22052016 — kopia\zajecia22052016\obj\Debug\TypKonta.g.cs
+C:\Users\Agnieszka\Desktop\zajecia22052016 — kopia\zajecia22052016\obj\Debug\TypKonta.baml
+C:\Users\Agnieszka\Desktop\Nowy folder\zajecia22052016 Agnieszka Wawrzyniak\zajecia22052016\bin\Debug\zajecia22052016.exe.config
+C:\Users\Agnieszka\Desktop\Nowy folder\zajecia22052016 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\zajecia22052016.exe
+C:\Users\Agnieszka\Desktop\Nowy folder\zajecia22052016 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\zajecia22052016.pdb
+C:\Users\Agnieszka\Desktop\Nowy folder\zajecia22052016 Agnieszka Wawrzyniak\zajecia22052016\bin\Debug\zajecia22052016.exe
+C:\Users\Agnieszka\Desktop\Nowy folder\zajecia22052016 Agnieszka Wawrzyniak\zajecia22052016\bin\Debug\zajecia22052016.pdb
+C:\Users\Agnieszka\Desktop\Nowy folder\zajecia22052016 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\zajecia22052016.csprojResolveAssemblyReference.cache
+C:\Users\Agnieszka\Desktop\Nowy folder\zajecia22052016 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\DlgKlient.g.cs
+C:\Users\Agnieszka\Desktop\Nowy folder\zajecia22052016 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\MainWindow.g.cs
+C:\Users\Agnieszka\Desktop\Nowy folder\zajecia22052016 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\TypKonta.g.cs
+C:\Users\Agnieszka\Desktop\Nowy folder\zajecia22052016 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\App.g.cs
+C:\Users\Agnieszka\Desktop\Nowy folder\zajecia22052016 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\zajecia22052016_MarkupCompile.cache
+C:\Users\Agnieszka\Desktop\Nowy folder\zajecia22052016 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\zajecia22052016_MarkupCompile.lref
+C:\Users\Agnieszka\Desktop\Nowy folder\zajecia22052016 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\DlgKlient.baml
+C:\Users\Agnieszka\Desktop\Nowy folder\zajecia22052016 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\MainWindow.baml
+C:\Users\Agnieszka\Desktop\Nowy folder\zajecia22052016 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\TypKonta.baml
+C:\Users\Agnieszka\Desktop\Nowy folder\zajecia22052016 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\zajecia22052016.g.resources
+C:\Users\Agnieszka\Desktop\Nowy folder\zajecia22052016 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\zajecia22052016.Properties.Resources.resources
+C:\Users\Agnieszka\Desktop\Nowy folder\zajecia22052016 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\zajecia22052016.csproj.GenerateResource.Cache
+C:\Users\Agnieszka\Desktop\materialy STUDIA\Programowanie obiektowe i zdarzeniowe\zajecia7 Agnieszka Wawrzyniak\zajecia22052016\bin\Debug\zajecia22052016.exe.config
+C:\Users\Agnieszka\Desktop\materialy STUDIA\Programowanie obiektowe i zdarzeniowe\zajecia7 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\zajecia22052016.exe
+C:\Users\Agnieszka\Desktop\materialy STUDIA\Programowanie obiektowe i zdarzeniowe\zajecia7 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\zajecia22052016.pdb
+D:\Materiały INFORMATYKA\materialy STUDIA\Programowanie obiektowe i zdarzeniowe\zajecia7 Agnieszka Wawrzyniak\zajecia22052016\bin\Debug\zajecia22052016.exe.config
+D:\Materiały INFORMATYKA\materialy STUDIA\Programowanie obiektowe i zdarzeniowe\zajecia7 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\zajecia22052016.exe
+D:\Materiały INFORMATYKA\materialy STUDIA\Programowanie obiektowe i zdarzeniowe\zajecia7 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\zajecia22052016.pdb
+D:\Materiały INFORMATYKA\materialy STUDIA\Programowanie obiektowe i zdarzeniowe\zajecia7 Agnieszka Wawrzyniak\zajecia22052016\bin\Debug\zajecia22052016.exe
+D:\Materiały INFORMATYKA\materialy STUDIA\Programowanie obiektowe i zdarzeniowe\zajecia7 Agnieszka Wawrzyniak\zajecia22052016\bin\Debug\zajecia22052016.pdb
+D:\Materiały INFORMATYKA\materialy STUDIA\Programowanie obiektowe i zdarzeniowe\zajecia7 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\zajecia22052016.csprojResolveAssemblyReference.cache
+D:\Materiały INFORMATYKA\materialy STUDIA\Programowanie obiektowe i zdarzeniowe\zajecia7 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\DlgKlient.g.cs
+D:\Materiały INFORMATYKA\materialy STUDIA\Programowanie obiektowe i zdarzeniowe\zajecia7 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\MainWindow.g.cs
+D:\Materiały INFORMATYKA\materialy STUDIA\Programowanie obiektowe i zdarzeniowe\zajecia7 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\TypKonta.g.cs
+D:\Materiały INFORMATYKA\materialy STUDIA\Programowanie obiektowe i zdarzeniowe\zajecia7 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\App.g.cs
+D:\Materiały INFORMATYKA\materialy STUDIA\Programowanie obiektowe i zdarzeniowe\zajecia7 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\zajecia22052016_MarkupCompile.cache
+D:\Materiały INFORMATYKA\materialy STUDIA\Programowanie obiektowe i zdarzeniowe\zajecia7 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\zajecia22052016_MarkupCompile.lref
+D:\Materiały INFORMATYKA\materialy STUDIA\Programowanie obiektowe i zdarzeniowe\zajecia7 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\DlgKlient.baml
+D:\Materiały INFORMATYKA\materialy STUDIA\Programowanie obiektowe i zdarzeniowe\zajecia7 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\MainWindow.baml
+D:\Materiały INFORMATYKA\materialy STUDIA\Programowanie obiektowe i zdarzeniowe\zajecia7 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\TypKonta.baml
+D:\Materiały INFORMATYKA\materialy STUDIA\Programowanie obiektowe i zdarzeniowe\zajecia7 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\zajecia22052016.g.resources
+D:\Materiały INFORMATYKA\materialy STUDIA\Programowanie obiektowe i zdarzeniowe\zajecia7 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\zajecia22052016.Properties.Resources.resources
+D:\Materiały INFORMATYKA\materialy STUDIA\Programowanie obiektowe i zdarzeniowe\zajecia7 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\zajecia22052016.csproj.GenerateResource.Cache
+D:\Materiały INFORMATYKA\materialy STUDIA\Programowanie obiektowe i zdarzeniowe\zajecia7 Agnieszka Wawrzyniak\zajecia22052016\obj\Debug\zajecia22052016.csproj.CoreCompileInputs.cache

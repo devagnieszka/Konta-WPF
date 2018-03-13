@@ -1,0 +1,57 @@
+﻿<Window x:Class="zajecia22052016.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zajecia22052016"
+        mc:Ignorable="d"
+        Title="Bank" Height="350" Width="525">
+    <Window.Resources>
+
+        <DataTemplate x:Key="SzablonElementu">
+
+            <Grid Margin="3"  >
+                <Grid.ColumnDefinitions >
+                    <ColumnDefinition ></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <TextBlock  Margin="2" FontWeight="Bold" Text="{Binding Path=Typ}"></TextBlock>
+                <TextBlock  Margin="2" FontWeight="Bold" Grid.Column="1" Text="numer: "></TextBlock>
+                <TextBlock  Margin="2" Grid.Column="2" Text="{Binding Path=Numer}"></TextBlock>
+                <TextBlock  Margin="2" FontWeight="Bold" Grid.Column="3" Text="Stan: "></TextBlock>
+                <TextBlock Margin="2" Grid.Column="4" Text="{Binding Path=Saldo}"></TextBlock>
+            </Grid>
+
+        </DataTemplate>
+
+
+    </Window.Resources>
+    <Grid>
+        <Grid DataContext="{Binding ElementName=comboBoxKlient, Path=SelectedItem}">
+            <ComboBox x:Name="comboBoxKlient"  SelectedValue="{Binding Path=Nazwisko}"  HorizontalAlignment="Left" Margin="126,22,0,0" VerticalAlignment="Top" Width="289" SelectionChanged="comboBoxKlient_SelectionChanged" Grid.ColumnSpan="2" IsEnabled="False"  />
+        </Grid>
+    
+    <Grid DataContext="{Binding ElementName=listaKont, Path=SelectedItem}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="69*"/>
+            <ColumnDefinition Width="190*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="buttonOKNoweKonto" Content="dodaj konto" HorizontalAlignment="Left" Margin="246.6,93,0,0" VerticalAlignment="Top" Width="105" Click="buttonOK_Click" Grid.Column="1" IsEnabled="False"/>
+        <TextBox x:Name="kwota" HorizontalAlignment="Left" Height="23" Margin="95,274,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="180" Grid.ColumnSpan="2"/>
+        <Button x:Name="wplacButton" Content="Wpłać" HorizontalAlignment="Left" Margin="147.6,275,0,0" VerticalAlignment="Top" Width="75" Click="wplacButton_Click" Grid.Column="1" IsEnabled="False" />
+        <Button x:Name="wyplacButton" Content="Wypłać" HorizontalAlignment="Left" Margin="231.6,275,0,0" VerticalAlignment="Top" Width="75" Click="wyplacButton_Click" Grid.Column="1" IsEnabled="False"/>
+        <ListBox x:Name="listaKont" ItemTemplate="{StaticResource SzablonElementu}" HorizontalAlignment="Left" Height="135" Margin="31,90,0,0" VerticalAlignment="Top" Width="329"  Grid.ColumnSpan="2" />
+        <Button x:Name="dodajKlientaButton" Content="Dodaj" HorizontalAlignment="Left" Margin="292.6,24,0,0" VerticalAlignment="Top" Width="75" Click="dodajKlientaButton_Click" Grid.Column="1" />
+       
+        <Label x:Name="label2" Content="kwota" HorizontalAlignment="Left" Margin="25,271,0,0" VerticalAlignment="Top" Width="60"/>
+        <Button x:Name="usunKontoButton" Content="usuń konto" Grid.Column="1" HorizontalAlignment="Left" Margin="246.6,121,0,0" VerticalAlignment="Top" Width="105" Click="usunKontoButton_Click" IsEnabled="False" />
+        <Label x:Name="label" Content="Wybierz klienta" HorizontalAlignment="Left" Margin="8,20,0,0" VerticalAlignment="Top" Width="98"/>
+        <GroupBox x:Name="groupBox" Header="Konta Klienta" HorizontalAlignment="Left" Margin="7,60,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Height="182" Width="497" RenderTransformOrigin="0.5,0.5"/>
+        <GroupBox x:Name="groupBox1" Header="Obsługa Konta" HorizontalAlignment="Left" Margin="6,256,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Height="53" Width="498"/>
+
+    </Grid>
+    </Grid>
+</Window>

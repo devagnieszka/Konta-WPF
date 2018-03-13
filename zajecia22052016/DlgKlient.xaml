@@ -1,0 +1,16 @@
+﻿<Window x:Class="zajecia22052016.DlgKlient"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zajecia22052016"
+        mc:Ignorable="d"
+        Title="Klient" Height="146.965" Width="270.868">
+    <Grid Margin="0,0,22.6,137.4">
+        <Label x:Name="label" Content="Nazwisko" HorizontalAlignment="Left" Height="29" Margin="13,22,0,-51" VerticalAlignment="Top" Width="66"/>
+        <TextBox x:Name="textBoxNazwisko" HorizontalAlignment="Left" Height="29" Margin="84,22,0,-50.8" TextWrapping="Wrap"  VerticalAlignment="Top" Width="145"/>
+        <Button x:Name="OKbutton" Content="OK" HorizontalAlignment="Left" Height="23" Margin="90,67,0,-90" VerticalAlignment="Top" Width="56" IsDefault="True" Click="OKbutton_Click"/>
+        <Button x:Name="Anulujbutton1" Content="Anuluj" HorizontalAlignment="Left" Height="24" Margin="159,67,0,-91" VerticalAlignment="Top" Width="55" IsCancel="True"/>
+
+    </Grid>
+</Window>
